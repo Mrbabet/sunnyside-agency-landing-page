@@ -65,7 +65,7 @@ select {
   }
 }
 nav {
-  background-image: url(/sunnyside-agency-landing-page-main/images/mobile/image-header.jpg);
+  background-image: url(/images/mobile/image-header.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -250,26 +250,26 @@ footer svg:nth-of-type(1) {
 
 /* images */
 .egg {
-  background-image: url(/sunnyside-agency-landing-page-main/images/mobile/image-transform.jpg);
+  background-image: url(/images/mobile/image-transform.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .cup {
-  background-image: url(/sunnyside-agency-landing-page-main/images/mobile/image-stand-out.jpg);
+  background-image: url(/images/mobile/image-stand-out.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .cherry {
-  background-image: url(/sunnyside-agency-landing-page-main/images/mobile/image-graphic-design.jpg);
+  background-image: url(/images/mobile/image-graphic-design.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   grid-row: span 2;
 }
 .orange {
-  background-image: url(/sunnyside-agency-landing-page-main/images/mobile/image-photography.jpg);
+  background-image: url(/images/mobile/image-photography.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
